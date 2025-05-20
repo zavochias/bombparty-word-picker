@@ -21,6 +21,6 @@
         }
       ],
     "permissions": [
-        "tabs", "http://*/*"
+        "tabs", "http://*.jklm.fun/*"
     ]
 }
