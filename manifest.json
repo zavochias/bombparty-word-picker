@@ -5,9 +5,9 @@
     "version": "1.0.1",
     "description": "makes you better at bomb party",
     "manifest_version": 3,
-    "author": "Neerad Uppalapati",
+    "author": "zavokdev",
     "icons": {
-    "127": "images/icon128.png"
+        "128": "images/icon128.png"
     },
     "action":{
         "default_popup": "index.html",
